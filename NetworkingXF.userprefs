@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FE63FB04-4C8C-4FA0-8213-E30FA213B750}|Default">
+  <MonoDevelop.Ide.ItemProperties.NetworkingXF.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.98B8178F-5171-43DE-A09D-1770CC6AE144" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetworkingXF/WebManager/UserService.cs">
+    <Files>
+      <File FileName="../../Downloads/TodoLocalized/TodoLocalized.iOS/Locale_iOS.cs" Line="10" Column="24" />
+      <File FileName="iOS/AppDelegate.cs" Line="8" Column="11" />
+      <File FileName="iOS/Locale_iOS.cs" Line="105" Column="10" />
+      <File FileName="NetworkingXF/ILocale.cs" Line="23" Column="21" />
+      <File FileName="Droid/MainActivity.cs" Line="11" Column="29" />
+      <File FileName="Droid/Locale_Android.cs" Line="13" Column="6" />
+      <File FileName="NetworkingXF/WebManager/BaseRestRequest.cs" Line="30" Column="10" />
+      <File FileName="NetworkingXF/WebManager/UserService.cs" Line="63" Column="17" />
+      <File FileName="NetworkingXF/WebManager/BaseService.cs" Line="5" Column="6" />
+      <File FileName="NetworkingXF/WebManager/IUserService.cs" Line="7" Column="6" />
+      <File FileName="NetworkingXF/WebManager/IWebClient.cs" Line="9" Column="17" />
+      <File FileName="NetworkingXF/WebManager/ModernHttpClientFactory.cs" Line="7" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Idrish/Projects/NetworkingXF/NetworkingXF/WebManager/BaseRestRequest.cs" relfile="NetworkingXF/WebManager/BaseRestRequest.cs" line="22" column="30" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
